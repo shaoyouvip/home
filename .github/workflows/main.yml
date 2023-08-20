@@ -14,8 +14,8 @@
           sudo chown root:root /etc/caddy/Caddyfile
           cat /etc/caddy/Caddyfile
           sudo systemctl restart caddy
-      - name: Prepare SH
-        run: |
+      
+        
           echo "#!/bin/bash" >> ready.sh
           echo "echo \"http://$SERVER_IP:$SERVER_PORT\"" >> ready.sh
           echo "CODE=\`curl -I -m 10 -o /dev/null -s -w '%{http_code}\\n' \"http://$SERVER_IP:$SERVER_PORT\"\`" >> ready.sh
