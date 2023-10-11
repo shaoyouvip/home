@@ -1,8 +1,8 @@
 {
-  "name": "home",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "name": "HomePage",
+  "author": "Joker2Yue",
+  "github": "https://github.com/Joker2Yue",
+  "home": "https://Joker2Yue.top",
   "private": true,
   "version": "4.1.2",
   "type": "module",
