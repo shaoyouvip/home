@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.joker2yue.top/"
+    "link": "https://blog.joker2yue.cn/"
   },
   {
     "icon": "Cloud",
@@ -12,7 +12,7 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://blog.joker2yue.top/music/?id=648886106&server=netease"
+    "link": "https://blog.joker2yue.cn/music/?id=648886106&server=netease"
   },
   {
     "icon": "Compass",
@@ -20,9 +20,9 @@
     "link": "https://jianfast.com/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Brain",
+    "name": "ChatGPT",
+    "link": "https://gpt.joker2yue.cn/"
   },
   {
     "icon": "Fire",
