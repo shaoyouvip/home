@@ -3,7 +3,7 @@ import { defineStore } from "pinia";
 export const mainStore = defineStore("main", {
   state: () => {
     return {
-      imgLoadStatus: false, // 壁纸加载状态
+      imgLoadStatus: true, // 壁纸加载状态
       innerWidth: null, // 当前窗口宽度
       coverType: "0", // 壁纸种类
       siteStartShow: false, // 建站日期显示
