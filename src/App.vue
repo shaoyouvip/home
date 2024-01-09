@@ -108,13 +108,7 @@ onMounted(() => {
   const styleTitle2 = "font-size:12px;color: rgb(244,167,89);";
   const styleContent = "color: rgb(30,152,255);";
   const title1 = "星河の主页";
-  const title2 = `
-   ____  _                 ____  _                
- / ___|| |_ __ _ _ __ ___|  _ \(_)_   _____ _ __ 
- \___ \| __/ _` | '__/ __| |_) | \ \ / / _ \ '__|
-  ___) | || (_| | |  \__ \  _ <| |\ V /  __/ |   
- |____/ \__\__,_|_|  |___/_| \_\_| \_/ \___|_|   
-                                                 `;
+  const title2 = `StarsRiver `;
   const content = `\n\n版本: ${config.version}\n主页: ${config.home}\nGithub: ${config.github}`;
   console.info(`%c${title1} %c${title2} %c${content}`, styleTitle1, styleTitle2, styleContent);
 });
