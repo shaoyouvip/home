@@ -6,16 +6,16 @@ export const mainStore = defineStore("main", {
       imgLoadStatus: false, // 壁纸加载状态
       innerWidth: null, // 当前窗口宽度
       coverType: "0", // 壁纸种类
-      siteStartShow: false, // 建站日期显示
+      siteStartShow: true, // 建站日期显示
       musicClick: false, // 音乐链接是否跳转
       musicIsOk: false, // 音乐是否加载完成
       musicVolume: 0, // 音乐音量;
-      musicOpenState: false, // 音乐面板开启状态
-      backgroundShow: false, // 壁纸展示状态
-      boxOpenState: false, // 盒子开启状态
-      mobileOpenState: false, // 移动端开启状态
-      mobileFuncState: false, // 移动端功能区开启状态
-      setOpenState: false, // 设置页面开启状态
+      musicOpenState: true, // 音乐面板开启状态
+      backgroundShow: true, // 壁纸展示状态
+      boxOpenState: true, // 盒子开启状态
+      mobileOpenState: true, // 移动端开启状态
+      mobileFuncState: true, // 移动端功能区开启状态
+      setOpenState: true, // 设置页面开启状态
       playerState: false, // 当前播放状态
       playerTitle: null, // 当前播放歌曲名
       playerArtist: null, // 当前播放歌手名
