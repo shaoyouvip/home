@@ -38,10 +38,10 @@ const siteUrl = computed(() => {
   margin-left: 0.75rem;
   .logo {
     width: 100%;
-    font-family: "Pacifico-Regular";
+    font-family: "HarmonyOS_Regular";
     font-size: 1.75rem;
     position: fixed;
-    top: 0;
+    top: 6%;
     left: 0;
     text-align: center;
     transition: transform 0.3s;
