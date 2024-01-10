@@ -149,7 +149,7 @@ watch(
 
         p {
           &:nth-of-type(1) {
-            font-family: "HarmonyOS_Regular";
+            font-family: "Pacifico-Regular";
           }
         }
       }
