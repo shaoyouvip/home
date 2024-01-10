@@ -10,6 +10,11 @@
     "link": "https://cloud.xhsr.org.cn/"
   },
   {
+    "icon": "Book",
+    "name": "微博",
+    "link": "https://weibo.com/u/7498104033"
+  },
+  {
     "icon": "Compass",
     "name": "新闻",
     "link": "https://news.starsriverorg.cn/"
