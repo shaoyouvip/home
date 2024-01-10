@@ -41,7 +41,7 @@ const siteUrl = computed(() => {
     font-family: "Pacifico-Regular";
     font-size: 1.75rem;
     position: fixed;
-    top: 6%;
+    top: 0;
     left: 0;
     text-align: center;
     transition: transform 0.3s;
