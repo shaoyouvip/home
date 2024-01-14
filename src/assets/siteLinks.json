@@ -16,6 +16,11 @@
   },
   {
     "icon": "Compass",
+    "name": "笔记",
+    "link": "https://n.xhsr.org.cn/"
+  },
+  {
+    "icon": "Fire",
     "name": "新闻",
     "link": "https://news.starsriverorg.cn/"
   },
