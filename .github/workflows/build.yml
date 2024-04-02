@@ -1,4 +1,4 @@
-# Dev 分支推送部署预览
+# Dev 分支推送部署预览1
 ## 仅部署 Win 端
 name: Build Dev
 
@@ -34,5 +34,5 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v3.1.3
         with:
-          name: Home
+          name: 主页
           path: dist
