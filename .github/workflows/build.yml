@@ -36,3 +36,5 @@ jobs:
         with:
           name: Home
           path: dist
+          on: push
+          
