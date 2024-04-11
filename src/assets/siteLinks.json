@@ -6,6 +6,11 @@
   },
   {
     "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://cloudreve.gumengyo.top/"
+  },
+  {
+    "icon": "Tasks",
     "name": "备忘录",
     "link": "https://memos.gumengyo.top/"
   },
@@ -19,11 +24,11 @@
     "name": "起始页",
     "link": "https://snavigation.gumengyo.top/"
   },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
+  // {
+  //   "icon": "Book",
+  //   "name": "网址集",
+  //   "link": "https://web.imsyy.top/"
+  // },
   {
     "icon": "Fire",
     "name": "今日热榜",
