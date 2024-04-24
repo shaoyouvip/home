@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">欢迎来到帅帅の小站<br>这里</div>
+  <div class="more-content">帅帅の小站<br>一个建于21世纪的小站，存活于互联网的边缘</div>
 </template>
 
 <style lang="scss" scoped>
