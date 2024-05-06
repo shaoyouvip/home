@@ -1,37 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "语雀文档",
+    "link": "https://lidu.yuque.com/tbti1f"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "音乐",
+    "link": "https://music.lidu.ltd:10000/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "网盘",
+    "link": "https://pan.lidu.ltd/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Blog",
+    "name": "行业动态",
+    "link": "https://blog.lidu.ltd/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Cloud",
+    "name": "产品中心",
+    "link": "https://product.lidu.ltd/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "CompactDisc",
+    "name": "联系我们",
+    "link": "https://contact.lidu.ltd/"
   }
 ]

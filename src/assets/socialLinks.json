@@ -1,21 +1,21 @@
 [
   {
-    "name": "Github",
+    "name": "tiktok",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "tip": "去 抖音 看看",
+    "url": "https://douyin.com/liduwood"
   },
   {
-    "name": "BiliBili",
+    "name": "weixin",
     "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "tip": "微信联系",
+    "url": "https://weixin.com/liduwood"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "tip": "QQ上联系下~",
+    "url": "https://res.abeim.cn/api/qq/?qq=8278086"
   },
   {
     "name": "Email",
