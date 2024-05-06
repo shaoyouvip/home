@@ -11,11 +11,6 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "文件中心",
-    "link": "https://pan.lidu.ltd/"
-  },
-  {
-    "icon": "CompactDisc",
     "name": "联系我们",
     "link": "https://contact.lidu.ltd/"
   }
