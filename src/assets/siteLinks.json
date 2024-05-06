@@ -13,5 +13,20 @@
     "icon": "CompactDisc",
     "name": "联系我们",
     "link": "https://contact.lidu.ltd/"
+  },
+  {
+    "icon": "Blog",
+    "name": "行业动态",
+    "link": "https://blog.lidu.ltd/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "产品中心",
+    "link": "https://product.lidu.ltd/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "联系我们",
+    "link": "https://contact.lidu.ltd/"
   }
 ]
