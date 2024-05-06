@@ -14,13 +14,9 @@
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
           &amp;&nbsp;Made&nbsp;by
-          <a @lidu
-          </a>
-          <!--这个位置是修改首页最下面的源码作者信息隐藏
           <a :href="config.github" target="_blank">
             {{ config.author }}
           </a>
-          -->
           
         </span>
         <!-- 站点备案 -->
