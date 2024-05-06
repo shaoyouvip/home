@@ -51,7 +51,7 @@ const siteIcp = ref(import.meta.env.VITE_SITE_ICP);
 const siteAnthor = ref(import.meta.env.VITE_SITE_ANTHOR);
 const siteUrl = computed(() => {
   const url = import.meta.env.VITE_SITE_URL;
-  if (!url) return "https://www.lidu.ltd";
+  if (!url) return "https://p.lidu.ltd";
   // 判断协议前缀
   if (!url.startsWith("http://") && !url.startsWith("https://")) {
     return "//" + url;
