@@ -1,3 +1,13 @@
+let socialEnv = {
+  github: import.meta.env.VITE_SOCIAL_GITHUB,
+  gitee: import.meta.env.VITE_SOCIAL_GITEE,
+  kook: import.meta.env.VITE_SOCIAL_KOOK,
+  qq: import.meta.env.VITE_SOCIAL_QQ,
+  email: import.meta.env.VITE_SOCIAL_EMAIL,
+  telegram: import.meta.env.VITE_SOCIAL_TELEGRAM,
+  twitter: import.meta.env.VITE_SOCIAL_TWITTER,
+  travellings: import.meta.env.VITE_SOCIAL_TRAVELLINGS,
+}
 <template>
   <!-- 社交链接 -->
   <div class="social">
