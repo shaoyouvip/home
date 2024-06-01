@@ -1,7 +1,7 @@
 [
   {    
     "name": "Discord",
-    "icon": "file:///C:/Users/march/Downloads/LogoDiscord.svg",
+    "icon": "/public/images/icon/dis.png",
     "tip": "去 Discord 看看",
     "url": "https://github.com/imsyy"
     
