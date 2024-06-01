@@ -1,4 +1,11 @@
 [
+  {    <a
+    "name": "Discord",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/imsyy"
+    </a>
+  },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
