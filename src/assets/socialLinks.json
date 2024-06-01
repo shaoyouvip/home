@@ -7,8 +7,7 @@ let socialEnv = {
   telegram: import.meta.env.VITE_SOCIAL_TELEGRAM,
   twitter: import.meta.env.VITE_SOCIAL_TWITTER,
   travellings: import.meta.env.VITE_SOCIAL_TRAVELLINGS,
-  }
-  
+}
 [
   {    
     "name": "Discord",
