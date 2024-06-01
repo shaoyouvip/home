@@ -22,7 +22,7 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "marchthree317@gmail.com"
+    "url": "googlegmail://marchthree317@@gmail.com"
   },
   {
     "name": "Twitter",
