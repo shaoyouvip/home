@@ -7,7 +7,8 @@ let socialEnv = {
   telegram: import.meta.env.VITE_SOCIAL_TELEGRAM,
   twitter: import.meta.env.VITE_SOCIAL_TWITTER,
   travellings: import.meta.env.VITE_SOCIAL_TRAVELLINGS,
-}<template>
+}
+<template>
   <!-- 社交链接 -->
   <div class="social">
     <div class="link">
