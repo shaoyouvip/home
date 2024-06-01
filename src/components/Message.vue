@@ -37,7 +37,7 @@ import { mainStore } from "@/store";
 const store = mainStore();
 
 // 主页站点logo
-const siteLogo ="/public/images/icon/mao.jpg";
+const siteLogo ="public/images/icon/tuzi.png";
 // 站点链接
 const siteUrl = computed(() => {
   const url = import.meta.env.VITE_SITE_URL;
