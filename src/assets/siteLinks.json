@@ -1,13 +1,13 @@
 [
   {
+    "icon": "Compass",
+    "name": "个人主页",
+    "link": "https://www.joker2yue.com/"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://blog.joker2yue.cn/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
   },
   {
     "icon": "CompactDisc",
@@ -15,23 +15,8 @@
     "link": "https://blog.joker2yue.cn/music/?id=648886106&server=netease"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://jianfast.com/"
-  },
-  {
     "icon": "Brain",
     "name": "ChatGPT",
     "link": "https://gpt.joker2yue.cn/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
