@@ -15,9 +15,9 @@
     "link": "https://memos.gumengyo.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://tool.liumingye.cn/music/#/"
+    "icon": "Book",
+    "name": "做饭",
+    "link": "https://cook.aiursoft.cn/"
   },
   {
     "icon": "Compass",
@@ -28,6 +28,11 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://tool.liumingye.cn/music/#/"
   },
   {
     "icon": "Robot",
