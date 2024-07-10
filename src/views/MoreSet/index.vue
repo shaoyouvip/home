@@ -136,7 +136,7 @@ const jumpTo = (url) => {
         padding-left: 22px;
         width: 100%;
         height: 260px;
-
+        min-height: 140px;
         .bg {
           font-size: 5rem;
         }
@@ -144,6 +144,23 @@ const jumpTo = (url) => {
         .sm {
           margin-left: 6px;
           font-size: 2rem;
+        }
+
+        @media (max-width: 990px) {
+          .bg {
+            font-size: 4.5rem;
+          }
+          .sm {
+            font-size: 1.7rem;
+          }
+        }
+        @media (max-width: 825px) {
+          .bg {
+            font-size: 3.8rem;
+          }
+          .sm {
+            font-size: 1.3rem;
+          }
         }
       }
 
