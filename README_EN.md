@@ -204,6 +204,3 @@ You can modify the website icons in `public/images/icon`.
 - Botian API
 - Mr. JiaoShu API
 - Amap Open Platform
-
-**Hitokoto One-liner**
-```
