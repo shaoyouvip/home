@@ -3,7 +3,7 @@
 // 响应式布局
 @mixin changeWidth($maxWidth: 1200px) {
   .container {
-    max-width: $maxWidth;
+    max-width: $maxWidth; 
   }
 }
 
