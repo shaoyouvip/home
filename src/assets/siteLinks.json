@@ -2,32 +2,37 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.001315.xyz/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "站点统计",
+    "link": "https://umami.001315.xyz/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "Vercel CDN",
+    "link": "https://vercel.001315.xyz/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "YS影视",
+    "link": "https://ys.001315.xyz/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "图床",
+    "link": "https://img.001315.xyz/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "短链生成器",
+    "link": "https://d.001315.xyz/"
+  },
+  {
+    "icon": "Dh",
+    "name": "DH导航页",
+    "link": "https://dh.001315.xyz/"
   },
   {
     "icon": "LaptopCode",
