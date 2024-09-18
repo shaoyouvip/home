@@ -35,8 +35,28 @@
     "link": "https://dh.001315.xyz/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
-  }
+    "icon": "Fire",
+    "name": "订阅转换",
+    "link": "https://sub.001315.xyz/"
+  },
+  {
+    "icon": "Fire",
+    "name": "临时邮箱",
+    "link": "https://mail.001315.xyz/"
+  },
+  {
+    "icon": "Fire",
+    "name": "新Bing演示",
+    "link": "https://bing.ur.cloudns.ch/"
+  },
+  {
+    "icon": "Fire",
+    "name": "思维导图",
+    "link": "https://mind.001315.xyz/"
+  },
+  {
+    "icon": "Fire",
+    "name": "Markdown 在线编辑工具",
+    "link": "https://md.001315.xyz/"
+  },
 ]
