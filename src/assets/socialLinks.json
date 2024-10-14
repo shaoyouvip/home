@@ -9,7 +9,7 @@
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com"
+    "url": "https://bilibili.com"
   },
   {
     "name": "QQ",
@@ -21,7 +21,7 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@aizrf.com"
+    "url": "mailto:admin@aizrf.com"
   },
   {
     "name": "Twitter",
@@ -33,6 +33,6 @@
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/zrfur"
+    "url": "https://d.aizrf.com/tg"
   }
 ]
