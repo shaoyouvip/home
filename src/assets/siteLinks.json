@@ -5,14 +5,34 @@
     "link": "https://blog.aizrf.com/"
   },
   {
-    "icon": "Cloud",
-    "name": "站点统计",
-    "link": "https://umami.001315.xyz/"
+    "icon": "Fire",
+    "name": "周润发订阅器",
+    "link": "https://zrf.zrf.me/"
+  },
+  {
+    "icon": "Fire",
+    "name": "免费二级域名",
+    "link": "https://001316.xyz/"
   },
   {
     "icon": "CompactDisc",
     "name": "Vercel CDN",
     "link": "https://vercel.001315.xyz/"
+  },
+  {
+    "icon": "Book",
+    "name": "图床",
+    "link": "https://img.001315.xyz/"
+  },
+  {
+    "icon": "Fire",
+    "name": "Uptime状态",
+    "link": "https://Uptime.001315.xyz/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "站点统计",
+    "link": "https://umami.001315.xyz/"
   },
   {
     "icon": "Compass",
@@ -21,18 +41,8 @@
   },
   {
     "icon": "Fire",
-    "name": "Uptime状态",
-    "link": "https://Uptime.001315.xyz/"
-  },
-  {
-    "icon": "Fire",
     "name": "在线工具箱",
     "link": "https://tool.aizrf.com/"
-  },
-    {
-    "icon": "Book",
-    "name": "图床",
-    "link": "https://img.001315.xyz/"
   },
   {
     "icon": "Fire",
@@ -68,6 +78,16 @@
     "icon": "Fire",
     "name": "Markdown",
     "link": "https://md.001315.xyz/"
+  },
+  {
+    "icon": "Fire",
+    "name": "NewsNow",
+    "link": "https://newsnow.aizrf.com/"
+  },
+   {
+    "icon": "Fire",
+    "name": "HQ ICON",
+    "link": "https://icon.aizrf.com/"
   },
   {
     "icon": "Fire",
