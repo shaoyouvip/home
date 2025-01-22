@@ -20,9 +20,9 @@
     "link": "https://vercel.001315.xyz/"
   },
   {
-    "icon": "Book",
-    "name": "图床",
-    "link": "https://img.001315.xyz/"
+    "icon": "Fire",
+    "name": "网易云音乐",
+    "link": "https://music.aizrf.com/"
   },
   {
     "icon": "Fire",
@@ -31,8 +31,13 @@
   },
   {
     "icon": "Cloud",
-    "name": "站点统计",
+    "name": "Umami",
     "link": "https://umami.001315.xyz/"
+  },
+  {
+    "icon": "Book",
+    "name": "图床",
+    "link": "https://img.001315.xyz/"
   },
   {
     "icon": "Compass",
