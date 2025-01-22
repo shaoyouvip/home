@@ -5,7 +5,7 @@
     "link": "https://blog.aizrf.com/"
   },
   {
-    "icon": "Fire",
+    "icon": "Magic",
     "name": "公益订阅器",
     "link": "https://zrf.zrf.me/"
   },
@@ -15,7 +15,7 @@
     "link": "https://music.aizrf.com/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "Soundcloud",
     "name": "Vercel CDN",
     "link": "https://vercel.001315.xyz/"
   },
@@ -25,7 +25,7 @@
     "link": "https://001316.xyz/"
   },
   {
-    "icon": "Fire",
+    "icon": "Bullseye",
     "name": "站点状态",
     "link": "https://Uptime.001315.xyz/"
   },
@@ -35,67 +35,62 @@
     "link": "https://umami.001315.xyz/"
   },
   {
-    "icon": "Book",
+    "icon": "Images",
     "name": "图床",
     "link": "https://img.001315.xyz/"
   },
   {
-    "icon": "Compass",
+    "icon": "Video",
     "name": "YS影视",
     "link": "https://ys.001315.xyz/"
   },
   {
-    "icon": "Fire",
+    "icon": "Tools",
     "name": "在线工具箱",
     "link": "https://tool.aizrf.com/"
   },
   {
-    "icon": "Fire",
+    "icon": "Link",
     "name": "短链生成器",
     "link": "https://d.001315.xyz/"
   },
   {
-    "icon": "Fire",
+    "icon": "Compass",
     "name": "DH导航页",
     "link": "https://dh.001315.xyz/"
   },
   {
-    "icon": "Fire",
+    "icon": "ExchangeAlt",
     "name": "订阅转换",
     "link": "https://sub.001315.xyz/"
   },
   {
-    "icon": "Fire",
+    "icon": "Envelope",
     "name": "临时邮箱",
     "link": "https://mail.001315.xyz/"
   },
   {
-    "icon": "Fire",
-    "name": "新Bing演示",
-    "link": "https://bing.ur.cloudns.ch/"
-  },
-  {
-    "icon": "Fire",
+    "icon": "CodeBranch",
     "name": "思维导图",
     "link": "https://mind.001315.xyz/"
   },
   {
-    "icon": "Fire",
+    "icon": "Markdown",
     "name": "Markdown",
     "link": "https://md.001315.xyz/"
   },
   {
-    "icon": "Fire",
+    "icon": "Newspaper",
     "name": "NewsNow",
     "link": "https://newsnow.aizrf.com/"
   },
    {
-    "icon": "Fire",
+    "icon": "Icons",
     "name": "HQ ICON",
     "link": "https://icon.aizrf.com/"
   },
   {
-    "icon": "Fire",
+    "icon": "FileImage",
     "name": "封面生成",
     "link": "https://cover.001315.xyz/"
   }
