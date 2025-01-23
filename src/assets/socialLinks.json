@@ -26,19 +26,19 @@
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
+    "tip": "不怎么发推 ~",
     "url": "https://x.com/AIZrfCom"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
+    "tip": "快加 群组 ~",
     "url": "https://d.aizrf.com/tgq"
   },
   {
     "name": "Aifadian",
     "icon": "/images/icon/aifadian.png",
-    "tip": "爱发电 你懂的 ~",
+    "tip": "爱发电嘛 ~",
     "url": "https://d.aizrf.com/afd"
   }
 ]
