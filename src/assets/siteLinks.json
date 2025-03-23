@@ -61,7 +61,12 @@
   },
   {
     "icon": "Link",
-    "name": "短链生成器",
+    "name": "简洁短链生成",
+    "link": "https://d.001315.xyz/"
+  },
+  {
+    "icon": "Link",
+    "name": "Sink分析短链",
     "link": "https://d.001315.xyz/"
   },
   {
