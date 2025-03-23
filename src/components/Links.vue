@@ -77,6 +77,7 @@ const siteIcon = {
   Markdown,
   Link,
   Tools,
+  Cloud,
   Soundcloud,
   Video,
   Newspaper,
