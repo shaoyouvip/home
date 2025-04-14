@@ -15,6 +15,11 @@
     "link": "https://music.aizrf.com/"
   },
   {
+    "icon": "Video",
+    "name": "影视站",
+    "link": "https://ys.001315.xyz/"
+  },
+  {
     "icon": "Soundcloud",
     "name": "Vercel CDN",
     "link": "https://vercel.001315.xyz/"
