@@ -21,7 +21,7 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:admin@aizrf.com"
+    "url": "mailto:aizhourunfa@gmail.com"
   },
   {
     "name": "Twitter",
@@ -33,12 +33,12 @@
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "快加 群组 ~",
-    "url": "https://d.aizrf.com/tgq"
+    "url": "https://d.zrf.me/tgq"
   },
   {
     "name": "Aifadian",
     "icon": "/images/icon/aifadian.png",
     "tip": "爱发电嘛 ~",
-    "url": "https://d.aizrf.com/afd"
+    "url": "https://d.zrf.me/afd"
   }
 ]
