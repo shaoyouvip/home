@@ -62,6 +62,11 @@
   {
     "icon": "ExchangeAlt",
     "name": "订阅转换",
+    "link": "https://d.zrf.me/sub"
+  },
+  {
+    "icon": "ExchangeAlt",
+    "name": "Sublink订阅转换",
     "link": "https://sub.001315.xyz/"
   },
   {
